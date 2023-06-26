@@ -28,8 +28,8 @@ logo = f"""
 """
 
 print(logo + "\n")
-prefix = input(f"                       {Fore.MAGENTA}Prefix: ")
-token = input(f"                       {Fore.YELLOW}Token: ")
+prefix = input(f"                       {Fore.MAGENTA}Prefix:".")
+token = input(f"                       {Fore.YELLOW}Token: "ODIxOTY5NzAyMjkyMDI5NDkw.GaR-gs.J8i4KNxHC8NfIasDQSWGuDeQFNf5dWFLSc8Rvc"
 bot = commands.Bot(command_prefix=prefix, self_bot=True)
 
 @bot.event
